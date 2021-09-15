@@ -3,6 +3,9 @@ Git commit conventions for JavaScript and TypeScript repositories.
 
 > From [https://github.com/ubilabs/react-geosuggest/blob/master/CONVENTIONS.md](https://github.com/ubilabs/react-geosuggest/blob/master/CONVENTIONS.md).
 
+<br/>
+<br/>
+
 ## Git Commit Guidelines
 
 These rules are adopted from [the AngularJS commit conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/).
